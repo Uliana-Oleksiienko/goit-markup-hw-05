@@ -30,5 +30,8 @@
     <symbol id="icon-linkedin" viewBox="0 0 32 32">
       <path d="M32 32V20c0-5-1-10-8-10-3 0-5 2-6 4v-3h-7v21h7V21c0-2 0-5 4-5 3 0 3 3 3 6v10h7zM1 11h6v21H1V11zM4 0C2 0 0 2 0 4s2 4 4 4 4-2 4-4-2-4-4-4z" style="fill:var(--color3, #f4f4fd)"/>
     </symbol>
+     <symbol id="icon-subscribe" viewBox="0 0 32 32">
+      <path  d="M32 3 0 18l10 3L26 9 14 22v7l6-5 7 2 5-23z" style="fill:var(--color1, #fff)"/>
+    </symbol>
   </defs>
 </svg>
